@@ -1,0 +1,88 @@
+body {
+        color: #b4fff3;
+        rotation: 45;
+        opacity: 68;
+        mode: normal;
+        width: 59;
+        gap: 10;
+        offset: 0;
+    }
+body    {
+        color:#3a50d6,
+        rotation: 0,
+        opacity: 75,
+        mode: 'normal',
+        width: 50,
+        gap: 40,
+        offset: 0
+    }
+body    {
+        color: #3ad2d6,
+        rotation: 53,
+        opacity: 50,
+        mode: 'plaid',
+        width: 10,
+        gap: 10,
+        offset: 0
+    }
+],
+bg : '#ffffff'
+}
+
+h1 {
+    color: #95FCF9;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+}
+
+u {
+    color: #ffff00;
+    font-family: 'Rubik', sans-serif;
+}
+
+.blue {
+    color: #0FFAF3;
+}
+
+.school {
+    color: #ffffff;
+    font-family: 'Corinthia', cursive;
+    font-size: 30px;
+}
+
+.room {
+ color: #fc7462;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+
+.images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 50%;
+}
+
+h2 {
+	color: #73CB94;
+}
+
+h3 {
+    color: #03c03c;
+}
+
+marquee {
+    color: #ffff31;
+}
+
+.smtg {
+    color: #ff0000;
+}
